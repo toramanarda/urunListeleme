@@ -1,0 +1,18 @@
+#allProducts, #categories{
+  margin-inline: 40px;
+  background-color: lightgray;
+} 
+
+#categoryOptions{
+  background-color: lightgray;
+
+}
+
+h1{
+  margin-inline: 40px;
+  color: blue;
+}
+
+h2, h3{
+  color: lightskyblue;
+}
